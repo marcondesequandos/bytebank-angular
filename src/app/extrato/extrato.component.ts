@@ -9,9 +9,8 @@ export class ExtratoComponent implements OnInit {
 
   @Input() transferencias: any[];
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
 }
